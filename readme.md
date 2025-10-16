@@ -68,7 +68,7 @@ Use raw symptom text (no surrounding quotes). Example inputs and expected respon
 - Improve confidence scoring and feedback loop
 
 ## Demo
-Short demo video walkthrough: (link placeholder)
+Short demo video walkthrough: (https://www.youtube.com/watch?v=nx91O6vRpe8)
 
 ## Author
 Joel Mugisha — Machine Learning Techniques I (Oct 2025)
